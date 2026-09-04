@@ -7,7 +7,7 @@ about:
   head: 64a00e2
   archived: false
   latestVersion: v3.1.1
-  collectedAt: 2026-09-04T19:29:51Z
+  collectedAt: 2026-09-04T21:00:08Z
 timeline:
   created: 2017-06-19
   lastCommit: 2026-07-14
@@ -83,5 +83,43 @@ total:
   openIssue: 36
   commit: 485
 ---
+path: /home/runner/.x-repo/github.com/sa7mon/S3Scanner
+collectedAt: 2026-09-04T21:00:09Z
+loc:
+  Go:
+    code: 3602
+    comments: 223
+    blanks: 545
+    files: 45
+  Makefile:
+    code: 22
+    comments: 0
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 12
+    comments: 0
+    blanks: 2
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 218
+    blanks: 93
+    files: 1
+  Text:
+    code: 0
+    comments: 6
+    blanks: 0
+    files: 1
+total:
+  code: 3673
+  comments: 458
+  blanks: 656
+  files: 50
 ---
 
