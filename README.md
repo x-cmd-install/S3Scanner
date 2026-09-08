@@ -1,6 +1,24 @@
----
-owner-repo: sa7mon/S3Scanner
-desc:   Scan for misconfigured S3 buckets across S3-compatible APIs! 
----
-
 # S3Scanner
+
+Scan for misconfigured S3 buckets across S3-compatible APIs!
+
+- **Upstream**: <https://github.com/sa7mon/S3Scanner>
+- **Homepage**: <https://github.com/sa7mon/S3Scanner/discussions/135>
+- **Latest release**: `v3.1.1` (2024-09-17)
+- **Last commit**: 2026-07-14
+- **License**: MIT
+- **Stars**: 3169 · **Forks**: 413 · **Open issues**: 149 · **Contributors**: 8
+
+## Installation
+
+```sh
+x install S3Scanner
+```
+
+See <https://x-cmd.com/install/S3Scanner> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:46:21Z._
