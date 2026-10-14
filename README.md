@@ -26,12 +26,12 @@ Total: **3,647** lines of code across **49** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
-- **Maintained** (3/10) — 2 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,174 · **Forks**: 414 · **Open issues**: 149 · **Contributors**: 8
+- **Stars**: 3,175 · **Forks**: 414 · **Open issues**: 149 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 2 | 5 | 0 | 2 | 2 |
-| 360d | 2025-10-18 | 0 | 6 | 5 | 1 | 2 | 6 |
-| last720d | 2024-10-23 | 0 | 12 | 5 | 1 | 6 | 12 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-04-17 | 0 | 2 | 5 | 0 | 2 | 2 |
+| 360d | 2025-10-19 | 0 | 6 | 5 | 1 | 2 | 6 |
+| last720d | 2024-10-24 | 0 | 12 | 5 | 1 | 6 | 12 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for S3Scanner lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:31:59Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:34:37Z._
