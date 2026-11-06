@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,181 · **Forks**: 416 · **Open issues**: 149 · **Contributors**: 8
+- **Stars**: 3,180 · **Forks**: 417 · **Open issues**: 149 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 0 | 2 | 5 | 0 | 2 | 2 |
-| 360d | 2025-11-10 | 0 | 2 | 5 | 1 | 2 | 2 |
-| last720d | 2024-11-15 | 0 | 12 | 5 | 1 | 6 | 12 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 0 | 2 | 5 | 0 | 2 | 2 |
+| 360d | 2025-11-11 | 0 | 2 | 5 | 1 | 2 | 2 |
+| last720d | 2024-11-16 | 0 | 12 | 5 | 1 | 6 | 12 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for S3Scanner lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:24:02Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:27:54Z._
