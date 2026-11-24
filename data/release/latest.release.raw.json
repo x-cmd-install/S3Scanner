@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1636,
       "digest": null,
-      "download_count": 477,
+      "download_count": 483,
       "created_at": "2024-09-17T02:50:26Z",
       "updated_at": "2024-09-17T02:50:26Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5247050,
       "digest": null,
-      "download_count": 107,
+      "download_count": 108,
       "created_at": "2024-09-17T02:50:25Z",
       "updated_at": "2024-09-17T02:50:26Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_3.1.1_linux_386.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5677350,
       "digest": null,
-      "download_count": 183,
+      "download_count": 184,
       "created_at": "2024-09-17T02:50:26Z",
       "updated_at": "2024-09-17T02:50:26Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_3.1.1_linux_amd64.apk"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5481440,
       "digest": null,
-      "download_count": 1250,
+      "download_count": 1253,
       "created_at": "2024-09-17T02:50:26Z",
       "updated_at": "2024-09-17T02:50:26Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_3.1.1_linux_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5240009,
       "digest": null,
-      "download_count": 133,
+      "download_count": 136,
       "created_at": "2024-09-17T02:50:23Z",
       "updated_at": "2024-09-17T02:50:24Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_Darwin_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5468254,
       "digest": null,
-      "download_count": 4363,
+      "download_count": 4381,
       "created_at": "2024-09-17T02:50:24Z",
       "updated_at": "2024-09-17T02:50:25Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_Linux_x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5071789,
       "digest": null,
-      "download_count": 1098,
+      "download_count": 1099,
       "created_at": "2024-09-17T02:50:23Z",
       "updated_at": "2024-09-17T02:50:24Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_Windows_arm64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5294407,
       "digest": null,
-      "download_count": 1071,
+      "download_count": 1072,
       "created_at": "2024-09-17T02:50:23Z",
       "updated_at": "2024-09-17T02:50:24Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_Windows_i386.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5623870,
       "digest": null,
-      "download_count": 2466,
+      "download_count": 2471,
       "created_at": "2024-09-17T02:50:24Z",
       "updated_at": "2024-09-17T02:50:25Z",
       "browser_download_url": "https://github.com/sa7mon/S3Scanner/releases/download/v3.1.1/S3Scanner_Windows_x86_64.zip"
